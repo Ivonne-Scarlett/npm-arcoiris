@@ -1,0 +1,24 @@
+{
+  "name": "2-proyecto-npm",
+  "version": "1.0.0",
+  "description": "Creación de npm mostrando nombre con color arcoiris",
+  "main": "saludo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@ivonne-scarlett"
+  },
+  "keywords": [
+    "Kodemia",
+    "npm",
+    "arcoiris"
+  ],
+  "author": "Ivonne Scarlett",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs-parser": "^21.0.0"
+  }
+}
