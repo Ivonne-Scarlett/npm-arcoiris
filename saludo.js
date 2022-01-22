@@ -28,7 +28,4 @@
 const params = require('yargs-parser')(process.argv.slice(2))
 const colors = require('colors')
 
-const nombreConsola = params.name
-
-console.log(`Que tal koder ${nombreConsola}`.rainbow)
-
+console.log(`Que tal koder ${params.name}`.rainbow)
