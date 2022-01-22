@@ -30,5 +30,5 @@ const colors = require('colors')
 
 const nombreConsola = params.name
 
-console.log(`Hola ${nombreConsola}`.rainbow)
+console.log(`Que tal koder ${nombreConsola}`.rainbow)
 
